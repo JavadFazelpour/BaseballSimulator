@@ -1,0 +1,14 @@
+C:\Users\Davood\Documents\C# Training\BaseballSimulator\bin\Debug\net8.0\BaseballSimulator.exe
+C:\Users\Davood\Documents\C# Training\BaseballSimulator\bin\Debug\net8.0\BaseballSimulator.deps.json
+C:\Users\Davood\Documents\C# Training\BaseballSimulator\bin\Debug\net8.0\BaseballSimulator.runtimeconfig.json
+C:\Users\Davood\Documents\C# Training\BaseballSimulator\bin\Debug\net8.0\BaseballSimulator.dll
+C:\Users\Davood\Documents\C# Training\BaseballSimulator\bin\Debug\net8.0\BaseballSimulator.pdb
+C:\Users\Davood\Documents\C# Training\BaseballSimulator\obj\Debug\net8.0\BaseballSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davood\Documents\C# Training\BaseballSimulator\obj\Debug\net8.0\BaseballSimulator.AssemblyInfoInputs.cache
+C:\Users\Davood\Documents\C# Training\BaseballSimulator\obj\Debug\net8.0\BaseballSimulator.AssemblyInfo.cs
+C:\Users\Davood\Documents\C# Training\BaseballSimulator\obj\Debug\net8.0\BaseballSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Davood\Documents\C# Training\BaseballSimulator\obj\Debug\net8.0\BaseballSimulator.dll
+C:\Users\Davood\Documents\C# Training\BaseballSimulator\obj\Debug\net8.0\refint\BaseballSimulator.dll
+C:\Users\Davood\Documents\C# Training\BaseballSimulator\obj\Debug\net8.0\BaseballSimulator.pdb
+C:\Users\Davood\Documents\C# Training\BaseballSimulator\obj\Debug\net8.0\BaseballSimulator.genruntimeconfig.cache
+C:\Users\Davood\Documents\C# Training\BaseballSimulator\obj\Debug\net8.0\ref\BaseballSimulator.dll
